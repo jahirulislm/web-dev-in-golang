@@ -25,7 +25,7 @@ func loadPage(title string) (*Page, error) {
 }
 
 func main() {
-	page_1 := &Page{Title: "Golang", Body: []byte("Hello world with golang web dev!")}
+	page_1 := &Page{Title: "Golang", Body: []byte("Hello world with golang for web dev!")}
 
 	page_1.save()
 
