@@ -1,1 +1,1 @@
-Hello world with golang web dev!
+Hello world with golang for web dev!
